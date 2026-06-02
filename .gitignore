@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# User project data (users should commit their own memory-keel, but
+# this is a template repo — no user data belongs here)
+memory-keel/project-*/
+!memory-keel/template/
+PLAN.md
