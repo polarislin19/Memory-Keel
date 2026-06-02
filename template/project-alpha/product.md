@@ -34,9 +34,9 @@ Browser → Nginx → Static Frontend
 ```
 
 ## Pricing
-- Single price: $29.99 one-time
+- Single price: $39 once
 - No tiers, no subscription
-- Discount logic: time-based launch offer (e.g., first 30 days at $14.99)
+- Discount logic: time-based launch offer (e.g., first 30 days at $19)
 
 ## Payment
 - Provider: [e.g., Stripe, Lemon Squeezy]
